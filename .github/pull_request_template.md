@@ -54,7 +54,7 @@ Si los cammbios afectan a la interfaz de usuario, por favor adjunta capturas de 
 
 \### Checklist
 
-\- \[ ] He seguido las convenciones de estilo de código de este repositorio.
+- [ ] He seguido las convenciones de estilo de código de este repositorio.
 
 \- \[ ] He añadido pruebas unitarias para los cmabios que lo requieren.
 
